@@ -1,6 +1,8 @@
 # Motorola `Edge S` (China) / `G100` (Global) - 2021
 > Бэкап-репо с инструментами для прошивок - на случай, если помрут на 4PDA
 
+Всё сгруппировано по папкам 👆🏻
+
 - Код модели: `XT2125`
 - Кодовое название подели: `nio`
 - Исходный тред на 4PDA: [Motorola Edge S (China) / G100 (Global)](https://4pda.to/forum/index.php?showtopic=1015547)
